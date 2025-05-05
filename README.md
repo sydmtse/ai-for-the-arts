@@ -1,5 +1,7 @@
 # **AI for the Arts & Humanities Portfolio**
 
+### 2804235T
+
 **Welcome to my portfolio for the *AI for the Arts & Humanities* module. This repository documents my learning journey, design thinking, and practical explorations using artificial intelligence tools—especially large language models (LLMs)—in creative, ethical, and inclusive ways.**
 
 ## Purpose and Goals
